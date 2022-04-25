@@ -14,16 +14,6 @@ main,
     height: auto;
 }
 
-.btn1 {
-    color: green;
-    background-color: red;
-}
-
-.btn2 {
-    color: crimson;
-    background-color: green;
-}
-
 footer,
 .footer {
     background: linear-gradient(to top, aqua, black);
